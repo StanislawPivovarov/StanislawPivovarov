@@ -10,4 +10,4 @@
 ![](./adobelightroom.svg) ![](./adobephotoshop.svg) ![](./adobepremierepro.svg) ![](./kinopoisk.svg) ![](./youtube.svg) ![](./figma.svg)
 
 
-![](./Instagram_logo_2016.svg) [Мой нельзяграм] (instagram.com/me_stanislaw)
+![](./Instagram_logo_2016.svg) (Мой нельзяграм) [instagram.com/me_stanislaw]
