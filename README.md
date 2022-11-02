@@ -11,4 +11,4 @@
 
 
 ![](./Instagram_logo_2016.svg) 
-[Мой нельзяграм] (http://instagram.com/me_stanislaw)
+Мой нельзяграм (http://instagram.com/me_stanislaw)
