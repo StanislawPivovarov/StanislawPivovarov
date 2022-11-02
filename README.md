@@ -1,4 +1,4 @@
-# 안녕하세요 [annionghaseyo] ![] 
+# 안녕하세요 [annionghaseyo] 
 ## 👋🏻 Меня зовут Стас, я front-end developer 🧑🏼‍💻, недодизайнер 🧙🏼‍♂️, фотограф📸.
 ### ❤️‍🔥Люблю рамен, пулькоги, кимчи
 ### 🚷Недолюбливаю долбаебов
@@ -10,4 +10,5 @@
 ![](./adobelightroom.svg) ![](./adobephotoshop.svg) ![](./adobepremierepro.svg) ![](./kinopoisk.svg) ![](./youtube.svg) ![](./figma.svg)
 
 
-![](./Instagram_logo_2016.svg) [Мой нельзяграм] (http://instagram.com/me_stanislaw)
+![](./Instagram_logo_2016.svg) 
+[Мой нельзяграм] (http://instagram.com/me_stanislaw)
